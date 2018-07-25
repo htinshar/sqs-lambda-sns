@@ -1,0 +1,3 @@
+region: your-region-name
+accessKeyId: your-aws-access-key
+secretAccessKey: your-aws-access-secrect

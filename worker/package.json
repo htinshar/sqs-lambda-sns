@@ -1,0 +1,20 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "This is worker",
+  "main": "handler.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "worker"
+  ],
+  "author": "Htin Shar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.229.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "serverless-sam": "0.0.5"
+  }
+}
